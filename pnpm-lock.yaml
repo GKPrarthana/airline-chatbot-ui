@@ -20,6 +20,12 @@ importers:
       cross-env:
         specifier: ^7.0.3
         version: 7.0.3
+      dotenv-cli:
+        specifier: ^8.0.0
+        version: 8.0.0
+      pino-pretty:
+        specifier: ^13.0.0
+        version: 13.0.0
       prettier:
         specifier: ^3.5.3
         version: 3.5.3
