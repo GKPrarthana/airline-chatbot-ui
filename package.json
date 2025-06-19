@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@manypkg/cli": "^0.24.0",
-    "@netlify/next": "^1.4.9",
+    "@netlify/plugin-nextjs": "^5.11.3",
     "@turbo/gen": "^2.5.0",
     "cross-env": "^7.0.3",
     "dotenv-cli": "^8.0.0",
